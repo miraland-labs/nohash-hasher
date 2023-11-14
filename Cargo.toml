@@ -1,12 +1,12 @@
 [package]
-name = "solana-nohash-hasher"
-version = "0.2.2"
+name = "miraland-nohash-hasher"
+version = "0.2.1"
 edition = "2021"
-authors = ["Solana Labs Maintainers <maintainers@solanalabs.com>"]
+authors = ["Miraland Crafters <crafters@miraland.top>"]
 license = "Apache-2.0 OR MIT"
 description = "An implementation of `std::hash::Hasher` which does not hash at all."
-repository = "https://github.com/solana-labs/nohash-hasher"
-documentation = "https://docs.rs/solana-nohash-hasher"
+repository = "https://github.com/miraland-labs/nohash-hasher"
+documentation = "https://docs.rs/miraland-nohash-hasher"
 readme = "README.md"
 keywords = ["hash", "hasher", "hashmap", "hashset"]
 
